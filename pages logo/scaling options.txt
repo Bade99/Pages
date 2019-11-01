@@ -1,0 +1,2 @@
+use 128x128 con bicubic (smooth gradients)
+gaussian blur 1.5
